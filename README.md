@@ -1,11 +1,5 @@
 # Saude_Publica_Brasil_Dashboard
 
-Dashboard em PBI dos Indicadores de Saúde Pública no Brasil (2013 - 2017)
-Dashboard em PBI dos Indicadores de Saúde Pública no Brasil (2013 - 2017)
-dez de 2024 - dez de 2024dez de 2024 - dez de 2024
-
-Associado(s) a Universidade Federal do Paraná
-Associado(s) a Universidade Federal do Paraná
 Desafio:
 Desenvolver um dashboard como parte da avaliação final da disciplina "Visualização de Dados Aplicada" ministrada no curso "Bacharelado em Estatística e Ciência de Dados" pelo professor Dr. Anderson Ara. Os dados utilizados estão publicamente disponibilizados pelo Atlas Brasil (http://www.atlasbrasil.org.br/consulta) e incluem diversos indicadores de saúde nos estados brasileiros de 2013 a 2017.
 
