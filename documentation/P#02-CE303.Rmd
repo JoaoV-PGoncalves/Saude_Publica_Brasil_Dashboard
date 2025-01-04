@@ -1,0 +1,42 @@
+---
+title: "P#02 - CE303 Visualização de Dados Aplicada - DEST/UFPR"
+author: "João Victor Pietchaki Gonçalves"
+date: "2024-12-08"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Prova 2 - CE303 Visualização de Dados Aplicada - DEST/UFPR
+
+Os videos foram separados em 3 partes:
+
+- Parte 1: [https://www.loom.com/share/3ff0eca3b5a245fcbbfcab29ff054c08?sid=4b220def-cb90-49ce-b335-0f96ce8f908c](https://www.loom.com/share/3ff0eca3b5a245fcbbfcab29ff054c08?sid=4b220def-cb90-49ce-b335-0f96ce8f908c)
+
+
+- Parte 2:[https://www.loom.com/share/d0fb3ca87d86442a9fae24d35627090b?sid=8fa6d1de-6bb5-45aa-8760-41fbf8b941d2](https://www.loom.com/share/d0fb3ca87d86442a9fae24d35627090b?sid=8fa6d1de-6bb5-45aa-8760-41fbf8b941d2)
+
+
+- Parte 3: [https://www.loom.com/share/2c444a9bcd4c4812af3c596e27fda15a?sid=ef089438-7282-40e7-9179-b5502a128ee7](https://www.loom.com/share/2c444a9bcd4c4812af3c596e27fda15a?sid=ef089438-7282-40e7-9179-b5502a128ee7)
+
+
+- Link para o dashboard no PBI: [https://app.powerbi.com/view?r=eyJrIjoiZDQ1YTQxNWUtMjhlOC00NzA2LTk2MzItMzcyODZiN2E1MDczIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9](https://app.powerbi.com/view?r=eyJrIjoiZDQ1YTQxNWUtMjhlOC00NzA2LTk2MzItMzcyODZiN2E1MDczIiwidCI6ImMzN2IzN2EzLWU5ZTItNDJmOS1iYzY3LTRiOWI3MzhlMWRmMCJ9)
+
+- **Ferramenta utilizada para a criação do dashboard:** Power BI, R
+- **Ferramenta utilizada para integração do design:** Figma
+
+No meu GitHub acadêmico, disponibilizo todos os codigos utilizados para a realização desta avaliação. Incluem:
+
+- Arquivo do Power BI;  
+- scripts em R;
+
+**Link do repositório no GitHub**:
+
++ [https://github.com/victorpietchakiUFPR/CE303---Visualiza-ao-de-Dados-Aplicada/tree/main/P%2302](https://github.com/victorpietchakiUFPR/CE303---Visualiza-ao-de-Dados-Aplicada/tree/main/P%2302)
+
+Quaisquer eventuais imprevistos, não hesite em contatar-me via `joaovictorpiet@gmail.com` ou `victorpietchaki@ufpr.br`
